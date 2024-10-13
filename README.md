@@ -68,7 +68,43 @@
           "thumbTog": "https://od.lk/s/NDZfNjE4MTc3MzRf/rtjva.png",
           "titleTog": "RT JVA"
         },
-        {"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-info/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/NDZfNjE4MTc3Mzlf/nw-infi-fr.png","titleTog":"NW INFO / FR"}
+        {"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-info/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/NDZfNjE4MTc3Mzlf/nw-infi-fr.png","titleTog":"NW INFO / FR"},
+        {
+          "descriptionTog": "nw-sport 1 television est une chaine du sports",
+          "sourceTog": [
+            "https://hls.newworldtv.com/nw-sport-1/video/live.m3u8"
+          ],
+          "subtitleTog": "By Google",
+          "thumbTog": "https://od.lk/s/NDZfNjE4MTc3Mzdf/nw-sport1.png",
+          "titleTog": "NW-SPORT 1"
+        },
+        {
+          "descriptionTog": "nw-sport 2 television est une chaine du sports",
+          "sourceTog": [
+            "https://hls.newworldtv.com/nw-sport-2/video/live.m3u8"
+          ],
+          "subtitleTog": "By Google",
+          "thumbTog": "https://od.lk/s/NDZfNjE4MTc3Mzdf/nw-sport1.png",
+          "titleTog": "NW-SPORT 2"
+        },
+        {
+          "descriptionTog": "nw-sport 3 television est une chaine du sports",
+          "sourceTog": [
+            "https://hls.newworldtv.com/nw-sport-3/video/live.m3u8"
+          ],
+          "subtitleTog": "By Google",
+          "thumbTog": "https://od.lk/s/NDZfNjE4MTc3Mzdf/nw-sport1.png",
+          "titleTog": "NW-SPORT 3"
+        },
+        {
+          "descriptionTog": "nw-sport 4 television est une chaine du sports",
+          "sourceTog": [
+            "https://hls.newworldtv.com/nw-sport-4/video/live.m3u8"
+          ],
+          "subtitleTog": "By Google",
+          "thumbTog": "https://od.lk/s/NDZfNjE4MTc3Mzdf/nw-sport1.png",
+          "titleTog": "NW-SPORT 4"
+        }
       ]
     }
   ]
