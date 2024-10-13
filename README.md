@@ -48,7 +48,14 @@
           "subtitleTog": "By Google",
           "thumbTog": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
           "titleTog": "RT JVA"
-        }
+        },
+        {"descriptionTog":"New World Economie est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-economie/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png","titleTog":"NW ECONOMIE"},
+
+{"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-magazine/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png","titleTog":"NW MAGAZINE"},
+
+{"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-info/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png","titleTog":"NW INFO / FR"},
+
+{"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-info-2/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png","titleTog":"NW INFO / EN"}
       ]
     }
   ]
